@@ -3,8 +3,68 @@
 
   <url>
     <loc>https://www.btraveller.in/</loc>
-    <lastmod>2026-01-25</lastmod>
+    <lastmod>2026-02-04</lastmod>
     <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.btraveller.in/about.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.btraveller.in/services.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.btraveller.in/destinations.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.btraveller.in/joy_ride.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://www.btraveller.in/charters.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://www.btraveller.in/contact.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://www.btraveller.in/chardham.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.btraveller.in/dodham.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.btraveller.in/amarnath.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.btraveller.in/vaishno.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <priority>0.90</priority>
   </url>
 
 </urlset>
